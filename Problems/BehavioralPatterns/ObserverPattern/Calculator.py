@@ -1,4 +1,4 @@
-from Core.ObserverPattern import Subject, Observer
+from Core.BehavioralPatterns.ObserverPattern import Subject, Observer
 
 
 class Data(Subject):
